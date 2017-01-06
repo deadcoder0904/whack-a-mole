@@ -1,4 +1,10 @@
-# html5, css3, js
+# whack-a-mole
+
+> Play Whack :ghost: a Mole Game :heart_eyes:
+
+# Screenshot
+
+![whack-a-mole](http://imgur.com/TXjzDDs.png)
 
 ## License
 
